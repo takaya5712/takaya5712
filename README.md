@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning about programming
+
 <!--
 **takaya5712/takaya5712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
